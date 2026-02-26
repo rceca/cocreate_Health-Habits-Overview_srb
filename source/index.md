@@ -30,8 +30,10 @@ This course is published by Petlja Foundation under the
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
-:hidden:
+:caption: Садржај
 
-welcome/index
-detailed/index
+1_uvod/index
+2_pivot/index
+3_zadaci/index
+4_prilozi/index
+```
