@@ -1,6 +1,6 @@
 ﻿---
 status: exclude
-alias: PLCT_Template
+alias: cocreate-health-habits
 short_description: Short course description
 long_description: >
     <p>This course will introduce you ...</p>
